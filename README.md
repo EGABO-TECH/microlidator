@@ -1,6 +1,7 @@
-# <div align="center">
-#   <img src="assets/microlidator.jpg" alt="Microlidator logo" width="240">
-# </div>
+
+<div align="center">
+  <img src="assets/microlidator.jpg" alt="Microlidator logo" width="240">
+</div>
 
 # Microlidator
 
